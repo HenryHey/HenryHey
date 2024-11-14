@@ -1,4 +1,4 @@
-## Hi! I'm Enric Masdeu and I'm currently working with fintech at [kiwi.com](www.kiwi.com)
+## Hi! I'm Enric Masdeu and I'm currently working with fintech at [kiwi.com](https://www.kiwi.com)
 
 <!--
 **HenryHey/HenryHey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
