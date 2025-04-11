@@ -1,5 +1,6 @@
 ## Hi! I'm Enric Masdeu and I'm currently working with fintech at [kiwi.com](https://www.kiwi.com)
 
+### 📚 I also own the [japmagads](https://bsky.app/profile/japmagads.bsky.social) bluesky bot
 <!--
 **HenryHey/HenryHey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
