@@ -1,6 +1,7 @@
-## Hi! I'm Enric Masdeu and I'm currently working with fintech at [kiwi.com](https://www.kiwi.com)
+## Hi! I'm Enric Masdeu and I'm currently working in fintech at [kiwi.com](https://www.kiwi.com)
 
-### 📚 I also own the [japmagads](https://bsky.app/profile/japmagads.bsky.social) bluesky bot
+- 📚 I own the [japmagads](https://bsky.app/profile/japmagads.bsky.social) bluesky bot
+- ➰ I did some [looping animations](https://henryhey.github.io/loop5js) with p5js
 <!--
 **HenryHey/HenryHey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
