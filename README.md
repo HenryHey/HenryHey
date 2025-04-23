@@ -1,7 +1,9 @@
 ## Hi! I'm Enric Masdeu and I'm currently working in fintech at [kiwi.com](https://www.kiwi.com)
 
-- 📚 I own the [japmagads](https://bsky.app/profile/japmagads.bsky.social) bluesky bot
-- ➰ I did some [looping animations](https://henryhey.github.io/loop5js) with p5js
+### Other things I've been playing with:
+- 📚 [japmagads](https://bsky.app/profile/japmagads.bsky.social) - a bluesky bot posting japanese magazines' ads
+- ➰ [looping animations](https://henryhey.github.io/loop5js) done in p5js
+- 🪧 [messageboxd](https://messageboxd.com) - write custom text to videogame message boxes
 <!--
 **HenryHey/HenryHey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
