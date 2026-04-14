@@ -1,4 +1,5 @@
-## Hi! I'm Enric Masdeu and I'm currently working in fintech at [kiwi.com](https://www.kiwi.com)
+## Hi! I'm Enric Masdeu and I just finished working in fintech at [kiwi.com](https://www.kiwi.com).  
+I'm currently looking for new opportunities as a Senior Backend Engineer, focused on Python, FastAPI, GCP (or AWS).
 
 ### Other things I've been playing with:
 - 📚 [japmagads](https://bsky.app/profile/japmagads.bsky.social) - a bluesky bot posting japanese magazines' ads
